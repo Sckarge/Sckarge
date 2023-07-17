@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-![A photo of me](path_to_image_file)
+![A photo of me](IMG_20211205_024725_861.jpg)
 
 I am an tech enthusiast currently pursuing a Btech in CS from Vellore Institute of Technology.  
 
