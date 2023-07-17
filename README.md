@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-<img alt="My photo" src="(https://github.com/Sckarge/Sckarge/blob/b06baeadb5f7f0ab95410f775036071089d56786/IMG_20211205_024725_861.jpg)" width="100%">
+<img alt="My photo" src="https://github.com/Sckarge/Sckarge/blob/b06baeadb5f7f0ab95410f775036071089d56786/IMG_20211205_024725_861.jpg" width="100%">
 
 I am an tech enthusiast currently pursuing a Btech in CS from Vellore Institute of Technology.  
 
