@@ -1,6 +1,9 @@
 ### Hi there 👋
+
 📫 How to reach me:
-LinkedIn https://www.linkedin.com/in/shlok-kulkarni61103
+LinkedIn: https://www.linkedin.com/in/shlok-kulkarni61103
+Email: shlokkulkarni6@gmail.com 
+
 
 <!--
 **Sckarge/Sckarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
