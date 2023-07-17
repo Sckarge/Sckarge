@@ -10,7 +10,10 @@ I am an *ML enthusiast* so if you have any projects that you want to collaborate
 LinkedIn: https://www.linkedin.com/in/shlok-kulkarni61103  
 Email: shlokkulkarni6@gmail.com  
 
-
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Sckarge&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sckarge&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sckarge&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **Sckarge/Sckarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
