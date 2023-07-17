@@ -2,7 +2,7 @@
 
 <img alt="My photo" src="https://github.com/Sckarge/Sckarge/blob/b06baeadb5f7f0ab95410f775036071089d56786/IMG_20211205_024725_861.jpg" width="50%">
 
-I am an tech enthusiast currently pursuing a Btech in CS from Vellore Institute of Technology.  
+I am a tech enthusiast currently pursuing a Btech in CS from Vellore Institute of Technology.  
 
 I am an *ML enthusiast* so if you have any projects that you want to collaborate on you can contact me
 
