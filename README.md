@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-![A photo of me](IMG_20211205_024725_861.jpg)
+![A photo of me](https://github.com/Sckarge/Sckarge/blob/b7a3f61305a2c91e62f2c6c7af7054380e19860b/IMG_20211205_024725_861.jpg)
 
 I am an tech enthusiast currently pursuing a Btech in CS from Vellore Institute of Technology.  
 
