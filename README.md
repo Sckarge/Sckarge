@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-![A photo of me](https://github.com/Sckarge/Sckarge/blob/b7a3f61305a2c91e62f2c6c7af7054380e19860b/IMG_20211205_024725_861.jpg)
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/nakshatraraghav/nakshatraraghav/blob/main/nice.gif?raw=true" width="100%">
 
 I am an tech enthusiast currently pursuing a Btech in CS from Vellore Institute of Technology.  
 
