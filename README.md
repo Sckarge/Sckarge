@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/nakshatraraghav/nakshatraraghav/blob/main/nice.gif?raw=true" width="100%">
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;."" width="100%">
 
 I am an tech enthusiast currently pursuing a Btech in CS from Vellore Institute of Technology.  
 
