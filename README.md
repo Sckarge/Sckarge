@@ -4,7 +4,7 @@
 
 I am a tech enthusiast currently pursuing a Btech in CS from Vellore Institute of Technology.  
 
-I am an *ML enthusiast* so if you have any projects that you want to collaborate on you can contact me
+I am also currently learning *ML/AI* so if you have any projects that you want to collaborate on you can contact me
 
 📫 How to reach me:  
 LinkedIn: https://www.linkedin.com/in/shlok-kulkarni61103  
